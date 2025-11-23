@@ -65,7 +65,6 @@ LDR Features of LDR are as follows:
 ## PROGRAM:
 
 int sensorPin = A0; // select the input pin for the LDR
-
 int sensorValue = 0; // variable to store the value coming from the sensor
 int led = 13;
 void setup() { // declare the ledPin as an OUTPUT:
